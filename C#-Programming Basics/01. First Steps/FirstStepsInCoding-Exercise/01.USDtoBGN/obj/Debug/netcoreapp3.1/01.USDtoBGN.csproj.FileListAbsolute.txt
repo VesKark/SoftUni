@@ -1,0 +1,14 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\01.USDtoBGN\bin\Debug\netcoreapp3.1\01.USDtoBGN.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\01.USDtoBGN\bin\Debug\netcoreapp3.1\01.USDtoBGN.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\01.USDtoBGN\bin\Debug\netcoreapp3.1\01.USDtoBGN.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\01.USDtoBGN\bin\Debug\netcoreapp3.1\01.USDtoBGN.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\01.USDtoBGN\bin\Debug\netcoreapp3.1\01.USDtoBGN.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\01.USDtoBGN\bin\Debug\netcoreapp3.1\01.USDtoBGN.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.genruntimeconfig.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.csproj.AssemblyReference.cache

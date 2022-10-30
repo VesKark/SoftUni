@@ -1,0 +1,14 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\08.CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\08.CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\08.CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\08.CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\08.CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\08.CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\08.CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.csproj.AssemblyReference.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\08.CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\08.CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\08.CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\08.CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\08.CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\08.CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\08.CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.genruntimeconfig.cache

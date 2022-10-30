@@ -1,0 +1,13 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Exercise\07.CleverLily\bin\Debug\netcoreapp3.1\07.CleverLily.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Exercise\07.CleverLily\bin\Debug\netcoreapp3.1\07.CleverLily.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Exercise\07.CleverLily\bin\Debug\netcoreapp3.1\07.CleverLily.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Exercise\07.CleverLily\bin\Debug\netcoreapp3.1\07.CleverLily.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Exercise\07.CleverLily\bin\Debug\netcoreapp3.1\07.CleverLily.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Exercise\07.CleverLily\bin\Debug\netcoreapp3.1\07.CleverLily.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Exercise\07.CleverLily\obj\Debug\netcoreapp3.1\07.CleverLily.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Exercise\07.CleverLily\obj\Debug\netcoreapp3.1\07.CleverLily.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Exercise\07.CleverLily\obj\Debug\netcoreapp3.1\07.CleverLily.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Exercise\07.CleverLily\obj\Debug\netcoreapp3.1\07.CleverLily.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Exercise\07.CleverLily\obj\Debug\netcoreapp3.1\07.CleverLily.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Exercise\07.CleverLily\obj\Debug\netcoreapp3.1\07.CleverLily.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Exercise\07.CleverLily\obj\Debug\netcoreapp3.1\07.CleverLily.genruntimeconfig.cache

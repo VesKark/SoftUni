@@ -1,0 +1,14 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\07.FootballLeague\bin\Debug\netcoreapp3.1\07.FootballLeague.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\07.FootballLeague\bin\Debug\netcoreapp3.1\07.FootballLeague.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\07.FootballLeague\bin\Debug\netcoreapp3.1\07.FootballLeague.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\07.FootballLeague\bin\Debug\netcoreapp3.1\07.FootballLeague.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\07.FootballLeague\bin\Debug\netcoreapp3.1\07.FootballLeague.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\07.FootballLeague\bin\Debug\netcoreapp3.1\07.FootballLeague.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\07.FootballLeague\obj\Debug\netcoreapp3.1\07.FootballLeague.csproj.AssemblyReference.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\07.FootballLeague\obj\Debug\netcoreapp3.1\07.FootballLeague.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\07.FootballLeague\obj\Debug\netcoreapp3.1\07.FootballLeague.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\07.FootballLeague\obj\Debug\netcoreapp3.1\07.FootballLeague.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\07.FootballLeague\obj\Debug\netcoreapp3.1\07.FootballLeague.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\07.FootballLeague\obj\Debug\netcoreapp3.1\07.FootballLeague.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\07.FootballLeague\obj\Debug\netcoreapp3.1\07.FootballLeague.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\07.FootballLeague\obj\Debug\netcoreapp3.1\07.FootballLeague.genruntimeconfig.cache

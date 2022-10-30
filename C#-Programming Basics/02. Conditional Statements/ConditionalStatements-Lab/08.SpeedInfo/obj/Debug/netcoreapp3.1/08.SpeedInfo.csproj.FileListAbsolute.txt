@@ -1,0 +1,13 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Lab\08.SpeedInfo\bin\Debug\netcoreapp3.1\08.SpeedInfo.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Lab\08.SpeedInfo\bin\Debug\netcoreapp3.1\08.SpeedInfo.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Lab\08.SpeedInfo\bin\Debug\netcoreapp3.1\08.SpeedInfo.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Lab\08.SpeedInfo\bin\Debug\netcoreapp3.1\08.SpeedInfo.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Lab\08.SpeedInfo\bin\Debug\netcoreapp3.1\08.SpeedInfo.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Lab\08.SpeedInfo\bin\Debug\netcoreapp3.1\08.SpeedInfo.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Lab\08.SpeedInfo\obj\Debug\netcoreapp3.1\08.SpeedInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Lab\08.SpeedInfo\obj\Debug\netcoreapp3.1\08.SpeedInfo.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Lab\08.SpeedInfo\obj\Debug\netcoreapp3.1\08.SpeedInfo.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Lab\08.SpeedInfo\obj\Debug\netcoreapp3.1\08.SpeedInfo.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Lab\08.SpeedInfo\obj\Debug\netcoreapp3.1\08.SpeedInfo.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Lab\08.SpeedInfo\obj\Debug\netcoreapp3.1\08.SpeedInfo.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Lab\08.SpeedInfo\obj\Debug\netcoreapp3.1\08.SpeedInfo.genruntimeconfig.cache

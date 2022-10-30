@@ -1,0 +1,14 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-Lab\07.CinemaTickets\bin\Debug\netcoreapp3.1\07.CinemaTickets.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-Lab\07.CinemaTickets\bin\Debug\netcoreapp3.1\07.CinemaTickets.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-Lab\07.CinemaTickets\bin\Debug\netcoreapp3.1\07.CinemaTickets.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-Lab\07.CinemaTickets\bin\Debug\netcoreapp3.1\07.CinemaTickets.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-Lab\07.CinemaTickets\bin\Debug\netcoreapp3.1\07.CinemaTickets.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-Lab\07.CinemaTickets\bin\Debug\netcoreapp3.1\07.CinemaTickets.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-Lab\07.CinemaTickets\obj\Debug\netcoreapp3.1\07.CinemaTickets.csproj.AssemblyReference.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-Lab\07.CinemaTickets\obj\Debug\netcoreapp3.1\07.CinemaTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-Lab\07.CinemaTickets\obj\Debug\netcoreapp3.1\07.CinemaTickets.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-Lab\07.CinemaTickets\obj\Debug\netcoreapp3.1\07.CinemaTickets.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-Lab\07.CinemaTickets\obj\Debug\netcoreapp3.1\07.CinemaTickets.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-Lab\07.CinemaTickets\obj\Debug\netcoreapp3.1\07.CinemaTickets.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-Lab\07.CinemaTickets\obj\Debug\netcoreapp3.1\07.CinemaTickets.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-Lab\07.CinemaTickets\obj\Debug\netcoreapp3.1\07.CinemaTickets.genruntimeconfig.cache

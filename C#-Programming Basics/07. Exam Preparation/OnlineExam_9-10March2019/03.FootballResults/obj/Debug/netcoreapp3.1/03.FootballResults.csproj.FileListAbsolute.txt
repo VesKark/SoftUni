@@ -1,0 +1,14 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\03.FootballResults\bin\Debug\netcoreapp3.1\03.FootballResults.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\03.FootballResults\bin\Debug\netcoreapp3.1\03.FootballResults.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\03.FootballResults\bin\Debug\netcoreapp3.1\03.FootballResults.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\03.FootballResults\bin\Debug\netcoreapp3.1\03.FootballResults.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\03.FootballResults\bin\Debug\netcoreapp3.1\03.FootballResults.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\03.FootballResults\bin\Debug\netcoreapp3.1\03.FootballResults.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\03.FootballResults\obj\Debug\netcoreapp3.1\03.FootballResults.csproj.AssemblyReference.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\03.FootballResults\obj\Debug\netcoreapp3.1\03.FootballResults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\03.FootballResults\obj\Debug\netcoreapp3.1\03.FootballResults.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\03.FootballResults\obj\Debug\netcoreapp3.1\03.FootballResults.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\03.FootballResults\obj\Debug\netcoreapp3.1\03.FootballResults.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\03.FootballResults\obj\Debug\netcoreapp3.1\03.FootballResults.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\03.FootballResults\obj\Debug\netcoreapp3.1\03.FootballResults.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\03.FootballResults\obj\Debug\netcoreapp3.1\03.FootballResults.genruntimeconfig.cache

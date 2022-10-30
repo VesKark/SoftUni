@@ -1,0 +1,14 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises-DrawingFigures\03.SquareOfStars\bin\Debug\netcoreapp3.1\03.SquareOfStars.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises-DrawingFigures\03.SquareOfStars\bin\Debug\netcoreapp3.1\03.SquareOfStars.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises-DrawingFigures\03.SquareOfStars\bin\Debug\netcoreapp3.1\03.SquareOfStars.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises-DrawingFigures\03.SquareOfStars\bin\Debug\netcoreapp3.1\03.SquareOfStars.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises-DrawingFigures\03.SquareOfStars\bin\Debug\netcoreapp3.1\03.SquareOfStars.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises-DrawingFigures\03.SquareOfStars\bin\Debug\netcoreapp3.1\03.SquareOfStars.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises-DrawingFigures\03.SquareOfStars\obj\Debug\netcoreapp3.1\03.SquareOfStars.csproj.AssemblyReference.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises-DrawingFigures\03.SquareOfStars\obj\Debug\netcoreapp3.1\03.SquareOfStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises-DrawingFigures\03.SquareOfStars\obj\Debug\netcoreapp3.1\03.SquareOfStars.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises-DrawingFigures\03.SquareOfStars\obj\Debug\netcoreapp3.1\03.SquareOfStars.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises-DrawingFigures\03.SquareOfStars\obj\Debug\netcoreapp3.1\03.SquareOfStars.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises-DrawingFigures\03.SquareOfStars\obj\Debug\netcoreapp3.1\03.SquareOfStars.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises-DrawingFigures\03.SquareOfStars\obj\Debug\netcoreapp3.1\03.SquareOfStars.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises-DrawingFigures\03.SquareOfStars\obj\Debug\netcoreapp3.1\03.SquareOfStars.genruntimeconfig.cache

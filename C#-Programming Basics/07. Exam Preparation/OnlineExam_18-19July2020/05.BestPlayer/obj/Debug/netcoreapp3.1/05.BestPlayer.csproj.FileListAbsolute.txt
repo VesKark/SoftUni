@@ -1,0 +1,14 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_18-19July2020\05.BestPlayer\bin\Debug\netcoreapp3.1\05.BestPlayer.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_18-19July2020\05.BestPlayer\bin\Debug\netcoreapp3.1\05.BestPlayer.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_18-19July2020\05.BestPlayer\bin\Debug\netcoreapp3.1\05.BestPlayer.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_18-19July2020\05.BestPlayer\bin\Debug\netcoreapp3.1\05.BestPlayer.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_18-19July2020\05.BestPlayer\bin\Debug\netcoreapp3.1\05.BestPlayer.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_18-19July2020\05.BestPlayer\bin\Debug\netcoreapp3.1\05.BestPlayer.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_18-19July2020\05.BestPlayer\obj\Debug\netcoreapp3.1\05.BestPlayer.csproj.AssemblyReference.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_18-19July2020\05.BestPlayer\obj\Debug\netcoreapp3.1\05.BestPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_18-19July2020\05.BestPlayer\obj\Debug\netcoreapp3.1\05.BestPlayer.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_18-19July2020\05.BestPlayer\obj\Debug\netcoreapp3.1\05.BestPlayer.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_18-19July2020\05.BestPlayer\obj\Debug\netcoreapp3.1\05.BestPlayer.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_18-19July2020\05.BestPlayer\obj\Debug\netcoreapp3.1\05.BestPlayer.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_18-19July2020\05.BestPlayer\obj\Debug\netcoreapp3.1\05.BestPlayer.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_18-19July2020\05.BestPlayer\obj\Debug\netcoreapp3.1\05.BestPlayer.genruntimeconfig.cache

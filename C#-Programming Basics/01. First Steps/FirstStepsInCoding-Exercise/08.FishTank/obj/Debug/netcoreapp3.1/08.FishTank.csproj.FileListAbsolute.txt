@@ -1,0 +1,13 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\08.FishTank\bin\Debug\netcoreapp3.1\08.FishTank.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\08.FishTank\bin\Debug\netcoreapp3.1\08.FishTank.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\08.FishTank\bin\Debug\netcoreapp3.1\08.FishTank.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\08.FishTank\bin\Debug\netcoreapp3.1\08.FishTank.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\08.FishTank\bin\Debug\netcoreapp3.1\08.FishTank.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\08.FishTank\bin\Debug\netcoreapp3.1\08.FishTank.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\08.FishTank\obj\Debug\netcoreapp3.1\08.FishTank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\08.FishTank\obj\Debug\netcoreapp3.1\08.FishTank.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\08.FishTank\obj\Debug\netcoreapp3.1\08.FishTank.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\08.FishTank\obj\Debug\netcoreapp3.1\08.FishTank.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\08.FishTank\obj\Debug\netcoreapp3.1\08.FishTank.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\08.FishTank\obj\Debug\netcoreapp3.1\08.FishTank.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\08.FishTank\obj\Debug\netcoreapp3.1\08.FishTank.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\09.LunchBreak\bin\Debug\netcoreapp3.1\09.LunchBreak.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\09.LunchBreak\bin\Debug\netcoreapp3.1\09.LunchBreak.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\09.LunchBreak\bin\Debug\netcoreapp3.1\09.LunchBreak.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\09.LunchBreak\bin\Debug\netcoreapp3.1\09.LunchBreak.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\09.LunchBreak\bin\Debug\netcoreapp3.1\09.LunchBreak.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\09.LunchBreak\bin\Debug\netcoreapp3.1\09.LunchBreak.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\09.LunchBreak\obj\Debug\netcoreapp3.1\09.LunchBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\09.LunchBreak\obj\Debug\netcoreapp3.1\09.LunchBreak.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\09.LunchBreak\obj\Debug\netcoreapp3.1\09.LunchBreak.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\09.LunchBreak\obj\Debug\netcoreapp3.1\09.LunchBreak.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\09.LunchBreak\obj\Debug\netcoreapp3.1\09.LunchBreak.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\09.LunchBreak\obj\Debug\netcoreapp3.1\09.LunchBreak.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\09.LunchBreak\obj\Debug\netcoreapp3.1\09.LunchBreak.genruntimeconfig.cache

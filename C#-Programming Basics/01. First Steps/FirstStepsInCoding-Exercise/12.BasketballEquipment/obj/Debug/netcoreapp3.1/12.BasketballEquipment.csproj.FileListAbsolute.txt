@@ -1,0 +1,13 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\12.BasketballEquipment\bin\Debug\netcoreapp3.1\12.BasketballEquipment.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\12.BasketballEquipment\bin\Debug\netcoreapp3.1\12.BasketballEquipment.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\12.BasketballEquipment\bin\Debug\netcoreapp3.1\12.BasketballEquipment.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\12.BasketballEquipment\bin\Debug\netcoreapp3.1\12.BasketballEquipment.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\12.BasketballEquipment\bin\Debug\netcoreapp3.1\12.BasketballEquipment.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\12.BasketballEquipment\bin\Debug\netcoreapp3.1\12.BasketballEquipment.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\12.BasketballEquipment\obj\Debug\netcoreapp3.1\12.BasketballEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\12.BasketballEquipment\obj\Debug\netcoreapp3.1\12.BasketballEquipment.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\12.BasketballEquipment\obj\Debug\netcoreapp3.1\12.BasketballEquipment.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\12.BasketballEquipment\obj\Debug\netcoreapp3.1\12.BasketballEquipment.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\12.BasketballEquipment\obj\Debug\netcoreapp3.1\12.BasketballEquipment.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\12.BasketballEquipment\obj\Debug\netcoreapp3.1\12.BasketballEquipment.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Exercise\12.BasketballEquipment\obj\Debug\netcoreapp3.1\12.BasketballEquipment.genruntimeconfig.cache

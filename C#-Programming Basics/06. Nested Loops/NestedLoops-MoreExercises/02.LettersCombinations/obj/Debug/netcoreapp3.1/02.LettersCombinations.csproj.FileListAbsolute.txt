@@ -1,0 +1,13 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\02.LettersCombinations\bin\Debug\netcoreapp3.1\02.LettersCombinations.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\02.LettersCombinations\bin\Debug\netcoreapp3.1\02.LettersCombinations.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\02.LettersCombinations\bin\Debug\netcoreapp3.1\02.LettersCombinations.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\02.LettersCombinations\bin\Debug\netcoreapp3.1\02.LettersCombinations.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\02.LettersCombinations\bin\Debug\netcoreapp3.1\02.LettersCombinations.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\02.LettersCombinations\bin\Debug\netcoreapp3.1\02.LettersCombinations.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\netcoreapp3.1\02.LettersCombinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\netcoreapp3.1\02.LettersCombinations.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\netcoreapp3.1\02.LettersCombinations.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\netcoreapp3.1\02.LettersCombinations.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\netcoreapp3.1\02.LettersCombinations.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\netcoreapp3.1\02.LettersCombinations.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\02.LettersCombinations\obj\Debug\netcoreapp3.1\02.LettersCombinations.genruntimeconfig.cache

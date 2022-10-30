@@ -1,0 +1,14 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\bin\Debug\netcoreapp3.1\07.HotelRoom.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.csproj.AssemblyReference.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Exercise\07.HotelRoom\obj\Debug\netcoreapp3.1\07.HotelRoom.genruntimeconfig.cache

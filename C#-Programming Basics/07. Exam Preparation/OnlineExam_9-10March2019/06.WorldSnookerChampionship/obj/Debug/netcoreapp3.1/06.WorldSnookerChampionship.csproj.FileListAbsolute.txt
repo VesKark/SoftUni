@@ -1,0 +1,13 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\06.WorldSnookerChampionship\bin\Debug\netcoreapp3.1\06.WorldSnookerChampionship.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\06.WorldSnookerChampionship\bin\Debug\netcoreapp3.1\06.WorldSnookerChampionship.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\06.WorldSnookerChampionship\bin\Debug\netcoreapp3.1\06.WorldSnookerChampionship.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\06.WorldSnookerChampionship\bin\Debug\netcoreapp3.1\06.WorldSnookerChampionship.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\06.WorldSnookerChampionship\bin\Debug\netcoreapp3.1\06.WorldSnookerChampionship.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\06.WorldSnookerChampionship\bin\Debug\netcoreapp3.1\06.WorldSnookerChampionship.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\06.WorldSnookerChampionship\obj\Debug\netcoreapp3.1\06.WorldSnookerChampionship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\06.WorldSnookerChampionship\obj\Debug\netcoreapp3.1\06.WorldSnookerChampionship.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\06.WorldSnookerChampionship\obj\Debug\netcoreapp3.1\06.WorldSnookerChampionship.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\06.WorldSnookerChampionship\obj\Debug\netcoreapp3.1\06.WorldSnookerChampionship.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\06.WorldSnookerChampionship\obj\Debug\netcoreapp3.1\06.WorldSnookerChampionship.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\06.WorldSnookerChampionship\obj\Debug\netcoreapp3.1\06.WorldSnookerChampionship.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\06.WorldSnookerChampionship\obj\Debug\netcoreapp3.1\06.WorldSnookerChampionship.genruntimeconfig.cache

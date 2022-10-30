@@ -1,0 +1,13 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\06.Bills\bin\Debug\netcoreapp3.1\06.Bills.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\06.Bills\bin\Debug\netcoreapp3.1\06.Bills.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\06.Bills\bin\Debug\netcoreapp3.1\06.Bills.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\06.Bills\bin\Debug\netcoreapp3.1\06.Bills.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\06.Bills\bin\Debug\netcoreapp3.1\06.Bills.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\06.Bills\bin\Debug\netcoreapp3.1\06.Bills.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\06.Bills\obj\Debug\netcoreapp3.1\06.Bills.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\06.Bills\obj\Debug\netcoreapp3.1\06.Bills.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\06.Bills\obj\Debug\netcoreapp3.1\06.Bills.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\06.Bills\obj\Debug\netcoreapp3.1\06.Bills.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\06.Bills\obj\Debug\netcoreapp3.1\06.Bills.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\06.Bills\obj\Debug\netcoreapp3.1\06.Bills.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\06.Bills\obj\Debug\netcoreapp3.1\06.Bills.genruntimeconfig.cache

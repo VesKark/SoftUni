@@ -1,0 +1,14 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\08.EasterShop\bin\Debug\netcoreapp3.1\08.EasterShop.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\08.EasterShop\bin\Debug\netcoreapp3.1\08.EasterShop.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\08.EasterShop\bin\Debug\netcoreapp3.1\08.EasterShop.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\08.EasterShop\bin\Debug\netcoreapp3.1\08.EasterShop.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\08.EasterShop\bin\Debug\netcoreapp3.1\08.EasterShop.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\08.EasterShop\bin\Debug\netcoreapp3.1\08.EasterShop.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\08.EasterShop\obj\Debug\netcoreapp3.1\08.EasterShop.csproj.AssemblyReference.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\08.EasterShop\obj\Debug\netcoreapp3.1\08.EasterShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\08.EasterShop\obj\Debug\netcoreapp3.1\08.EasterShop.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\08.EasterShop\obj\Debug\netcoreapp3.1\08.EasterShop.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\08.EasterShop\obj\Debug\netcoreapp3.1\08.EasterShop.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\08.EasterShop\obj\Debug\netcoreapp3.1\08.EasterShop.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\08.EasterShop\obj\Debug\netcoreapp3.1\08.EasterShop.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\08.EasterShop\obj\Debug\netcoreapp3.1\08.EasterShop.genruntimeconfig.cache

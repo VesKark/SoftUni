@@ -1,0 +1,14 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_2-3May2019_Retake\01.FruitMarket\bin\Debug\netcoreapp3.1\01.FruitMarket.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_2-3May2019_Retake\01.FruitMarket\bin\Debug\netcoreapp3.1\01.FruitMarket.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_2-3May2019_Retake\01.FruitMarket\bin\Debug\netcoreapp3.1\01.FruitMarket.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_2-3May2019_Retake\01.FruitMarket\bin\Debug\netcoreapp3.1\01.FruitMarket.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_2-3May2019_Retake\01.FruitMarket\bin\Debug\netcoreapp3.1\01.FruitMarket.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_2-3May2019_Retake\01.FruitMarket\bin\Debug\netcoreapp3.1\01.FruitMarket.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_2-3May2019_Retake\01.FruitMarket\obj\Debug\netcoreapp3.1\01.FruitMarket.csproj.AssemblyReference.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_2-3May2019_Retake\01.FruitMarket\obj\Debug\netcoreapp3.1\01.FruitMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_2-3May2019_Retake\01.FruitMarket\obj\Debug\netcoreapp3.1\01.FruitMarket.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_2-3May2019_Retake\01.FruitMarket\obj\Debug\netcoreapp3.1\01.FruitMarket.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_2-3May2019_Retake\01.FruitMarket\obj\Debug\netcoreapp3.1\01.FruitMarket.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_2-3May2019_Retake\01.FruitMarket\obj\Debug\netcoreapp3.1\01.FruitMarket.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_2-3May2019_Retake\01.FruitMarket\obj\Debug\netcoreapp3.1\01.FruitMarket.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_2-3May2019_Retake\01.FruitMarket\obj\Debug\netcoreapp3.1\01.FruitMarket.genruntimeconfig.cache

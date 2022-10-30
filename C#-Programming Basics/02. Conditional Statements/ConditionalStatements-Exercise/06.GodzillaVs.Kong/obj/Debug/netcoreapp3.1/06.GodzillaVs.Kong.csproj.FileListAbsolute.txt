@@ -1,0 +1,13 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\06.GodzillaVs.Kong\bin\Debug\netcoreapp3.1\06.GodzillaVs.Kong.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\06.GodzillaVs.Kong\bin\Debug\netcoreapp3.1\06.GodzillaVs.Kong.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\06.GodzillaVs.Kong\bin\Debug\netcoreapp3.1\06.GodzillaVs.Kong.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\06.GodzillaVs.Kong\bin\Debug\netcoreapp3.1\06.GodzillaVs.Kong.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\06.GodzillaVs.Kong\bin\Debug\netcoreapp3.1\06.GodzillaVs.Kong.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\06.GodzillaVs.Kong\bin\Debug\netcoreapp3.1\06.GodzillaVs.Kong.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\06.GodzillaVs.Kong\obj\Debug\netcoreapp3.1\06.GodzillaVs.Kong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\06.GodzillaVs.Kong\obj\Debug\netcoreapp3.1\06.GodzillaVs.Kong.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\06.GodzillaVs.Kong\obj\Debug\netcoreapp3.1\06.GodzillaVs.Kong.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\06.GodzillaVs.Kong\obj\Debug\netcoreapp3.1\06.GodzillaVs.Kong.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\06.GodzillaVs.Kong\obj\Debug\netcoreapp3.1\06.GodzillaVs.Kong.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\06.GodzillaVs.Kong\obj\Debug\netcoreapp3.1\06.GodzillaVs.Kong.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\06.GodzillaVs.Kong\obj\Debug\netcoreapp3.1\06.GodzillaVs.Kong.genruntimeconfig.cache

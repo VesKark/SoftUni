@@ -1,0 +1,14 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\10.SuitcasesLoad\bin\Debug\netcoreapp3.1\10.SuitcasesLoad.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\10.SuitcasesLoad\bin\Debug\netcoreapp3.1\10.SuitcasesLoad.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\10.SuitcasesLoad\bin\Debug\netcoreapp3.1\10.SuitcasesLoad.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\10.SuitcasesLoad\bin\Debug\netcoreapp3.1\10.SuitcasesLoad.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\10.SuitcasesLoad\bin\Debug\netcoreapp3.1\10.SuitcasesLoad.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\10.SuitcasesLoad\bin\Debug\netcoreapp3.1\10.SuitcasesLoad.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\10.SuitcasesLoad\obj\Debug\netcoreapp3.1\10.SuitcasesLoad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\10.SuitcasesLoad\obj\Debug\netcoreapp3.1\10.SuitcasesLoad.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\10.SuitcasesLoad\obj\Debug\netcoreapp3.1\10.SuitcasesLoad.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\10.SuitcasesLoad\obj\Debug\netcoreapp3.1\10.SuitcasesLoad.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\10.SuitcasesLoad\obj\Debug\netcoreapp3.1\10.SuitcasesLoad.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\10.SuitcasesLoad\obj\Debug\netcoreapp3.1\10.SuitcasesLoad.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\10.SuitcasesLoad\obj\Debug\netcoreapp3.1\10.SuitcasesLoad.genruntimeconfig.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\10.SuitcasesLoad\obj\Debug\netcoreapp3.1\10.SuitcasesLoad.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises-DrawingFigures\02.RectangleOfNxNStars\bin\Debug\netcoreapp3.1\02.RectangleOfNxNStars.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises-DrawingFigures\02.RectangleOfNxNStars\bin\Debug\netcoreapp3.1\02.RectangleOfNxNStars.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises-DrawingFigures\02.RectangleOfNxNStars\bin\Debug\netcoreapp3.1\02.RectangleOfNxNStars.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises-DrawingFigures\02.RectangleOfNxNStars\bin\Debug\netcoreapp3.1\02.RectangleOfNxNStars.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises-DrawingFigures\02.RectangleOfNxNStars\bin\Debug\netcoreapp3.1\02.RectangleOfNxNStars.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises-DrawingFigures\02.RectangleOfNxNStars\bin\Debug\netcoreapp3.1\02.RectangleOfNxNStars.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises-DrawingFigures\02.RectangleOfNxNStars\obj\Debug\netcoreapp3.1\02.RectangleOfNxNStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises-DrawingFigures\02.RectangleOfNxNStars\obj\Debug\netcoreapp3.1\02.RectangleOfNxNStars.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises-DrawingFigures\02.RectangleOfNxNStars\obj\Debug\netcoreapp3.1\02.RectangleOfNxNStars.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises-DrawingFigures\02.RectangleOfNxNStars\obj\Debug\netcoreapp3.1\02.RectangleOfNxNStars.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises-DrawingFigures\02.RectangleOfNxNStars\obj\Debug\netcoreapp3.1\02.RectangleOfNxNStars.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises-DrawingFigures\02.RectangleOfNxNStars\obj\Debug\netcoreapp3.1\02.RectangleOfNxNStars.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises-DrawingFigures\02.RectangleOfNxNStars\obj\Debug\netcoreapp3.1\02.RectangleOfNxNStars.genruntimeconfig.cache

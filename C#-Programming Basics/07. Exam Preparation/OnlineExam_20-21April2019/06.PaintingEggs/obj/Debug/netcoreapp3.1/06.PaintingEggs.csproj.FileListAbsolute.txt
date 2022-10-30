@@ -1,0 +1,14 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\06.PaintingEggs\obj\Debug\netcoreapp3.1\06.PaintingEggs.csproj.AssemblyReference.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\06.PaintingEggs\obj\Debug\netcoreapp3.1\06.PaintingEggs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\06.PaintingEggs\obj\Debug\netcoreapp3.1\06.PaintingEggs.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\06.PaintingEggs\obj\Debug\netcoreapp3.1\06.PaintingEggs.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\06.PaintingEggs\obj\Debug\netcoreapp3.1\06.PaintingEggs.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\06.PaintingEggs\bin\Debug\netcoreapp3.1\06.PaintingEggs.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\06.PaintingEggs\bin\Debug\netcoreapp3.1\06.PaintingEggs.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\06.PaintingEggs\bin\Debug\netcoreapp3.1\06.PaintingEggs.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\06.PaintingEggs\bin\Debug\netcoreapp3.1\06.PaintingEggs.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\06.PaintingEggs\bin\Debug\netcoreapp3.1\06.PaintingEggs.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\06.PaintingEggs\bin\Debug\netcoreapp3.1\06.PaintingEggs.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\06.PaintingEggs\obj\Debug\netcoreapp3.1\06.PaintingEggs.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\06.PaintingEggs\obj\Debug\netcoreapp3.1\06.PaintingEggs.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\06.PaintingEggs\obj\Debug\netcoreapp3.1\06.PaintingEggs.genruntimeconfig.cache

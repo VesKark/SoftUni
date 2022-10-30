@@ -1,0 +1,14 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\04.CarNumber\bin\Debug\netcoreapp3.1\04.CarNumber.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\04.CarNumber\bin\Debug\netcoreapp3.1\04.CarNumber.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\04.CarNumber\bin\Debug\netcoreapp3.1\04.CarNumber.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\04.CarNumber\bin\Debug\netcoreapp3.1\04.CarNumber.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\04.CarNumber\bin\Debug\netcoreapp3.1\04.CarNumber.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\04.CarNumber\bin\Debug\netcoreapp3.1\04.CarNumber.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\04.CarNumber\obj\Debug\netcoreapp3.1\04.CarNumber.csproj.AssemblyReference.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\04.CarNumber\obj\Debug\netcoreapp3.1\04.CarNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\04.CarNumber\obj\Debug\netcoreapp3.1\04.CarNumber.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\04.CarNumber\obj\Debug\netcoreapp3.1\04.CarNumber.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\04.CarNumber\obj\Debug\netcoreapp3.1\04.CarNumber.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\04.CarNumber\obj\Debug\netcoreapp3.1\04.CarNumber.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\04.CarNumber\obj\Debug\netcoreapp3.1\04.CarNumber.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\04.CarNumber\obj\Debug\netcoreapp3.1\04.CarNumber.genruntimeconfig.cache

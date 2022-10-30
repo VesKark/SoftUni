@@ -1,0 +1,13 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Lab\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Lab\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Lab\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Lab\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Lab\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Lab\06.VowelsSum\bin\Debug\netcoreapp3.1\06.VowelsSum.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Lab\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Lab\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Lab\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Lab\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Lab\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Lab\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Lab\06.VowelsSum\obj\Debug\netcoreapp3.1\06.VowelsSum.genruntimeconfig.cache

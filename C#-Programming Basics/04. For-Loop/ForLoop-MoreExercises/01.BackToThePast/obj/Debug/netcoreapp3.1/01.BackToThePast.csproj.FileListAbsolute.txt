@@ -1,0 +1,14 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\01.BackToThePast\bin\Debug\netcoreapp3.1\01.BackToThePast.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\01.BackToThePast\bin\Debug\netcoreapp3.1\01.BackToThePast.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\01.BackToThePast\bin\Debug\netcoreapp3.1\01.BackToThePast.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\01.BackToThePast\bin\Debug\netcoreapp3.1\01.BackToThePast.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\01.BackToThePast\bin\Debug\netcoreapp3.1\01.BackToThePast.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\01.BackToThePast\bin\Debug\netcoreapp3.1\01.BackToThePast.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\01.BackToThePast\obj\Debug\netcoreapp3.1\01.BackToThePast.csproj.AssemblyReference.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\01.BackToThePast\obj\Debug\netcoreapp3.1\01.BackToThePast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\01.BackToThePast\obj\Debug\netcoreapp3.1\01.BackToThePast.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\01.BackToThePast\obj\Debug\netcoreapp3.1\01.BackToThePast.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\01.BackToThePast\obj\Debug\netcoreapp3.1\01.BackToThePast.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\01.BackToThePast\obj\Debug\netcoreapp3.1\01.BackToThePast.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\01.BackToThePast\obj\Debug\netcoreapp3.1\01.BackToThePast.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-MoreExercises\01.BackToThePast\obj\Debug\netcoreapp3.1\01.BackToThePast.genruntimeconfig.cache

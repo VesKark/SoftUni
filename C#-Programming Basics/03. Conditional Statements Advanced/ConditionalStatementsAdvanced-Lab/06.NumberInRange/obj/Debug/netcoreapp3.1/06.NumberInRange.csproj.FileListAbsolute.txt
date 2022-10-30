@@ -1,0 +1,13 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\06.NumberInRange\bin\Debug\netcoreapp3.1\06.NumberInRange.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\06.NumberInRange\bin\Debug\netcoreapp3.1\06.NumberInRange.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\06.NumberInRange\bin\Debug\netcoreapp3.1\06.NumberInRange.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\06.NumberInRange\bin\Debug\netcoreapp3.1\06.NumberInRange.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\06.NumberInRange\bin\Debug\netcoreapp3.1\06.NumberInRange.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\06.NumberInRange\bin\Debug\netcoreapp3.1\06.NumberInRange.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\netcoreapp3.1\06.NumberInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\netcoreapp3.1\06.NumberInRange.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\netcoreapp3.1\06.NumberInRange.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\netcoreapp3.1\06.NumberInRange.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\netcoreapp3.1\06.NumberInRange.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\netcoreapp3.1\06.NumberInRange.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\06.NumberInRange\obj\Debug\netcoreapp3.1\06.NumberInRange.genruntimeconfig.cache

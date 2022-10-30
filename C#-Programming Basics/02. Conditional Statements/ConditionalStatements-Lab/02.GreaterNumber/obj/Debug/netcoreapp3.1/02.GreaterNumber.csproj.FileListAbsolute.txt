@@ -1,0 +1,14 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\netcoreapp3.1\02.GreaterNumber.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\netcoreapp3.1\02.GreaterNumber.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\netcoreapp3.1\02.GreaterNumber.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\netcoreapp3.1\02.GreaterNumber.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\netcoreapp3.1\02.GreaterNumber.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Lab\02.GreaterNumber\bin\Debug\netcoreapp3.1\02.GreaterNumber.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.csproj.AssemblyReference.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Lab\02.GreaterNumber\obj\Debug\netcoreapp3.1\02.GreaterNumber.genruntimeconfig.cache

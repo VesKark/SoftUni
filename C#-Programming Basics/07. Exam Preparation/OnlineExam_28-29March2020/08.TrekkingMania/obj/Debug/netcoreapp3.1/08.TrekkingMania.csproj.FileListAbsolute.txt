@@ -1,0 +1,13 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\08.TrekkingMania\bin\Debug\netcoreapp3.1\08.TrekkingMania.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\08.TrekkingMania\bin\Debug\netcoreapp3.1\08.TrekkingMania.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\08.TrekkingMania\bin\Debug\netcoreapp3.1\08.TrekkingMania.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\08.TrekkingMania\bin\Debug\netcoreapp3.1\08.TrekkingMania.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\08.TrekkingMania\bin\Debug\netcoreapp3.1\08.TrekkingMania.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\08.TrekkingMania\bin\Debug\netcoreapp3.1\08.TrekkingMania.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\08.TrekkingMania\obj\Debug\netcoreapp3.1\08.TrekkingMania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\08.TrekkingMania\obj\Debug\netcoreapp3.1\08.TrekkingMania.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\08.TrekkingMania\obj\Debug\netcoreapp3.1\08.TrekkingMania.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\08.TrekkingMania\obj\Debug\netcoreapp3.1\08.TrekkingMania.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\08.TrekkingMania\obj\Debug\netcoreapp3.1\08.TrekkingMania.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\08.TrekkingMania\obj\Debug\netcoreapp3.1\08.TrekkingMania.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\08.TrekkingMania\obj\Debug\netcoreapp3.1\08.TrekkingMania.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\netcoreapp3.1\11.FruitShop.csproj.AssemblyReference.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\netcoreapp3.1\11.FruitShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\netcoreapp3.1\11.FruitShop.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\netcoreapp3.1\11.FruitShop.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\netcoreapp3.1\11.FruitShop.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\netcoreapp3.1\11.FruitShop.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\netcoreapp3.1\11.FruitShop.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\netcoreapp3.1\11.FruitShop.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\netcoreapp3.1\11.FruitShop.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\netcoreapp3.1\11.FruitShop.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\11.FruitShop\bin\Debug\netcoreapp3.1\11.FruitShop.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\netcoreapp3.1\11.FruitShop.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\netcoreapp3.1\11.FruitShop.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\11.FruitShop\obj\Debug\netcoreapp3.1\11.FruitShop.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.csproj.AssemblyReference.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Exercise\06.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\06.OperationsBetweenNumbers.genruntimeconfig.cache

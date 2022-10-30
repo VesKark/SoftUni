@@ -1,0 +1,13 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\07.GameNumberWars\bin\Debug\netcoreapp3.1\07.GameNumberWars.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\07.GameNumberWars\bin\Debug\netcoreapp3.1\07.GameNumberWars.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\07.GameNumberWars\bin\Debug\netcoreapp3.1\07.GameNumberWars.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\07.GameNumberWars\bin\Debug\netcoreapp3.1\07.GameNumberWars.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\07.GameNumberWars\bin\Debug\netcoreapp3.1\07.GameNumberWars.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\07.GameNumberWars\bin\Debug\netcoreapp3.1\07.GameNumberWars.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\07.GameNumberWars\obj\Debug\netcoreapp3.1\07.GameNumberWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\07.GameNumberWars\obj\Debug\netcoreapp3.1\07.GameNumberWars.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\07.GameNumberWars\obj\Debug\netcoreapp3.1\07.GameNumberWars.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\07.GameNumberWars\obj\Debug\netcoreapp3.1\07.GameNumberWars.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\07.GameNumberWars\obj\Debug\netcoreapp3.1\07.GameNumberWars.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\07.GameNumberWars\obj\Debug\netcoreapp3.1\07.GameNumberWars.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_9-10March2019\07.GameNumberWars\obj\Debug\netcoreapp3.1\07.GameNumberWars.genruntimeconfig.cache

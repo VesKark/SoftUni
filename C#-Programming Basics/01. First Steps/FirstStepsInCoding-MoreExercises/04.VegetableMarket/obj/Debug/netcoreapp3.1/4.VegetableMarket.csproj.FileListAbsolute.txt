@@ -1,0 +1,14 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\4.VegetableMarket\bin\Debug\netcoreapp3.1\4.VegetableMarket.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\4.VegetableMarket\bin\Debug\netcoreapp3.1\4.VegetableMarket.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\4.VegetableMarket\bin\Debug\netcoreapp3.1\4.VegetableMarket.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\4.VegetableMarket\bin\Debug\netcoreapp3.1\4.VegetableMarket.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\4.VegetableMarket\bin\Debug\netcoreapp3.1\4.VegetableMarket.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\4.VegetableMarket\bin\Debug\netcoreapp3.1\4.VegetableMarket.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\4.VegetableMarket\obj\Debug\netcoreapp3.1\4.VegetableMarket.csproj.AssemblyReference.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\4.VegetableMarket\obj\Debug\netcoreapp3.1\4.VegetableMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\4.VegetableMarket\obj\Debug\netcoreapp3.1\4.VegetableMarket.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\4.VegetableMarket\obj\Debug\netcoreapp3.1\4.VegetableMarket.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\4.VegetableMarket\obj\Debug\netcoreapp3.1\4.VegetableMarket.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\4.VegetableMarket\obj\Debug\netcoreapp3.1\4.VegetableMarket.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\4.VegetableMarket\obj\Debug\netcoreapp3.1\4.VegetableMarket.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\4.VegetableMarket\obj\Debug\netcoreapp3.1\4.VegetableMarket.genruntimeconfig.cache

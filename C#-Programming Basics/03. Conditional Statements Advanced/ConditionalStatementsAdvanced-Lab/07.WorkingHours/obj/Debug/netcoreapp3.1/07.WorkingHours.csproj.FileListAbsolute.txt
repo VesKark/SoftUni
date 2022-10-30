@@ -1,0 +1,14 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\07.WorkingHours\bin\Debug\netcoreapp3.1\07.WorkingHours.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\07.WorkingHours\bin\Debug\netcoreapp3.1\07.WorkingHours.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\07.WorkingHours\bin\Debug\netcoreapp3.1\07.WorkingHours.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\07.WorkingHours\bin\Debug\netcoreapp3.1\07.WorkingHours.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\07.WorkingHours\bin\Debug\netcoreapp3.1\07.WorkingHours.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\07.WorkingHours\bin\Debug\netcoreapp3.1\07.WorkingHours.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\07.WorkingHours\obj\Debug\netcoreapp3.1\07.WorkingHours.csproj.AssemblyReference.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\07.WorkingHours\obj\Debug\netcoreapp3.1\07.WorkingHours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\07.WorkingHours\obj\Debug\netcoreapp3.1\07.WorkingHours.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\07.WorkingHours\obj\Debug\netcoreapp3.1\07.WorkingHours.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\07.WorkingHours\obj\Debug\netcoreapp3.1\07.WorkingHours.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\07.WorkingHours\obj\Debug\netcoreapp3.1\07.WorkingHours.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\07.WorkingHours\obj\Debug\netcoreapp3.1\07.WorkingHours.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\07.WorkingHours\obj\Debug\netcoreapp3.1\07.WorkingHours.genruntimeconfig.cache

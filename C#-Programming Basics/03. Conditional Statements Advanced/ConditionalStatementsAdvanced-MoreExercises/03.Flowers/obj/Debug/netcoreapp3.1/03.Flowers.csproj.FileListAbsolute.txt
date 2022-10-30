@@ -1,0 +1,14 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-MoreExercises\03.Flowers\bin\Debug\netcoreapp3.1\03.Flowers.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-MoreExercises\03.Flowers\bin\Debug\netcoreapp3.1\03.Flowers.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-MoreExercises\03.Flowers\bin\Debug\netcoreapp3.1\03.Flowers.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-MoreExercises\03.Flowers\bin\Debug\netcoreapp3.1\03.Flowers.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-MoreExercises\03.Flowers\bin\Debug\netcoreapp3.1\03.Flowers.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-MoreExercises\03.Flowers\bin\Debug\netcoreapp3.1\03.Flowers.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-MoreExercises\03.Flowers\obj\Debug\netcoreapp3.1\03.Flowers.csproj.AssemblyReference.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-MoreExercises\03.Flowers\obj\Debug\netcoreapp3.1\03.Flowers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-MoreExercises\03.Flowers\obj\Debug\netcoreapp3.1\03.Flowers.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-MoreExercises\03.Flowers\obj\Debug\netcoreapp3.1\03.Flowers.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-MoreExercises\03.Flowers\obj\Debug\netcoreapp3.1\03.Flowers.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-MoreExercises\03.Flowers\obj\Debug\netcoreapp3.1\03.Flowers.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-MoreExercises\03.Flowers\obj\Debug\netcoreapp3.1\03.Flowers.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-MoreExercises\03.Flowers\obj\Debug\netcoreapp3.1\03.Flowers.genruntimeconfig.cache

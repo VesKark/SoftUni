@@ -1,0 +1,14 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\05.ChallengeТheWedding\bin\Debug\netcoreapp3.1\05.ChallengeТheWedding.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\05.ChallengeТheWedding\bin\Debug\netcoreapp3.1\05.ChallengeТheWedding.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\05.ChallengeТheWedding\bin\Debug\netcoreapp3.1\05.ChallengeТheWedding.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\05.ChallengeТheWedding\bin\Debug\netcoreapp3.1\05.ChallengeТheWedding.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\05.ChallengeТheWedding\bin\Debug\netcoreapp3.1\05.ChallengeТheWedding.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\05.ChallengeТheWedding\bin\Debug\netcoreapp3.1\05.ChallengeТheWedding.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\05.ChallengeТheWedding\obj\Debug\netcoreapp3.1\05.ChallengeТheWedding.csproj.AssemblyReference.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\05.ChallengeТheWedding\obj\Debug\netcoreapp3.1\05.ChallengeТheWedding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\05.ChallengeТheWedding\obj\Debug\netcoreapp3.1\05.ChallengeТheWedding.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\05.ChallengeТheWedding\obj\Debug\netcoreapp3.1\05.ChallengeТheWedding.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\05.ChallengeТheWedding\obj\Debug\netcoreapp3.1\05.ChallengeТheWedding.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\05.ChallengeТheWedding\obj\Debug\netcoreapp3.1\05.ChallengeТheWedding.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\05.ChallengeТheWedding\obj\Debug\netcoreapp3.1\05.ChallengeТheWedding.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-MoreExercises\05.ChallengeТheWedding\obj\Debug\netcoreapp3.1\05.ChallengeТheWedding.genruntimeconfig.cache

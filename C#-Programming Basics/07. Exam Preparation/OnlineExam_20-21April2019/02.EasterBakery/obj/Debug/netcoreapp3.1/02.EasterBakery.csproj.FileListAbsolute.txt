@@ -1,0 +1,14 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\02.EasterBakery\bin\Debug\netcoreapp3.1\02.EasterBakery.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\02.EasterBakery\bin\Debug\netcoreapp3.1\02.EasterBakery.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\02.EasterBakery\bin\Debug\netcoreapp3.1\02.EasterBakery.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\02.EasterBakery\bin\Debug\netcoreapp3.1\02.EasterBakery.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\02.EasterBakery\bin\Debug\netcoreapp3.1\02.EasterBakery.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\02.EasterBakery\bin\Debug\netcoreapp3.1\02.EasterBakery.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\02.EasterBakery\obj\Debug\netcoreapp3.1\02.EasterBakery.csproj.AssemblyReference.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\02.EasterBakery\obj\Debug\netcoreapp3.1\02.EasterBakery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\02.EasterBakery\obj\Debug\netcoreapp3.1\02.EasterBakery.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\02.EasterBakery\obj\Debug\netcoreapp3.1\02.EasterBakery.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\02.EasterBakery\obj\Debug\netcoreapp3.1\02.EasterBakery.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\02.EasterBakery\obj\Debug\netcoreapp3.1\02.EasterBakery.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\02.EasterBakery\obj\Debug\netcoreapp3.1\02.EasterBakery.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\02.EasterBakery\obj\Debug\netcoreapp3.1\02.EasterBakery.genruntimeconfig.cache

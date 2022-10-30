@@ -1,0 +1,14 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\01.TrapeziodArea\bin\Debug\netcoreapp3.1\01.TrapeziodArea.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\01.TrapeziodArea\bin\Debug\netcoreapp3.1\01.TrapeziodArea.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\01.TrapeziodArea\bin\Debug\netcoreapp3.1\01.TrapeziodArea.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\01.TrapeziodArea\bin\Debug\netcoreapp3.1\01.TrapeziodArea.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\01.TrapeziodArea\bin\Debug\netcoreapp3.1\01.TrapeziodArea.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\01.TrapeziodArea\bin\Debug\netcoreapp3.1\01.TrapeziodArea.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\01.TrapeziodArea\obj\Debug\netcoreapp3.1\01.TrapeziodArea.csproj.AssemblyReference.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\01.TrapeziodArea\obj\Debug\netcoreapp3.1\01.TrapeziodArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\01.TrapeziodArea\obj\Debug\netcoreapp3.1\01.TrapeziodArea.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\01.TrapeziodArea\obj\Debug\netcoreapp3.1\01.TrapeziodArea.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\01.TrapeziodArea\obj\Debug\netcoreapp3.1\01.TrapeziodArea.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\01.TrapeziodArea\obj\Debug\netcoreapp3.1\01.TrapeziodArea.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\01.TrapeziodArea\obj\Debug\netcoreapp3.1\01.TrapeziodArea.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-MoreExercises\01.TrapeziodArea\obj\Debug\netcoreapp3.1\01.TrapeziodArea.genruntimeconfig.cache

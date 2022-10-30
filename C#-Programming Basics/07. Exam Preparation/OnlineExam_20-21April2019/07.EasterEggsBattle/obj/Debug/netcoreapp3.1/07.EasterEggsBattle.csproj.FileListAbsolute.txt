@@ -1,0 +1,13 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\07.EasterEggsBattle\bin\Debug\netcoreapp3.1\07.EasterEggsBattle.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\07.EasterEggsBattle\bin\Debug\netcoreapp3.1\07.EasterEggsBattle.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\07.EasterEggsBattle\bin\Debug\netcoreapp3.1\07.EasterEggsBattle.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\07.EasterEggsBattle\bin\Debug\netcoreapp3.1\07.EasterEggsBattle.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\07.EasterEggsBattle\bin\Debug\netcoreapp3.1\07.EasterEggsBattle.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\07.EasterEggsBattle\bin\Debug\netcoreapp3.1\07.EasterEggsBattle.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\07.EasterEggsBattle\obj\Debug\netcoreapp3.1\07.EasterEggsBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\07.EasterEggsBattle\obj\Debug\netcoreapp3.1\07.EasterEggsBattle.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\07.EasterEggsBattle\obj\Debug\netcoreapp3.1\07.EasterEggsBattle.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\07.EasterEggsBattle\obj\Debug\netcoreapp3.1\07.EasterEggsBattle.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\07.EasterEggsBattle\obj\Debug\netcoreapp3.1\07.EasterEggsBattle.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\07.EasterEggsBattle\obj\Debug\netcoreapp3.1\07.EasterEggsBattle.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_20-21April2019\07.EasterEggsBattle\obj\Debug\netcoreapp3.1\07.EasterEggsBattle.genruntimeconfig.cache

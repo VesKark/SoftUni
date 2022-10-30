@@ -1,0 +1,13 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\08.Shopping\obj\Debug\netcoreapp3.1\08.Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\08.Shopping\obj\Debug\netcoreapp3.1\08.Shopping.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\08.Shopping\obj\Debug\netcoreapp3.1\08.Shopping.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\08.Shopping\obj\Debug\netcoreapp3.1\08.Shopping.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\08.Shopping\bin\Debug\netcoreapp3.1\08.Shopping.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\08.Shopping\bin\Debug\netcoreapp3.1\08.Shopping.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\08.Shopping\bin\Debug\netcoreapp3.1\08.Shopping.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\08.Shopping\bin\Debug\netcoreapp3.1\08.Shopping.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\08.Shopping\bin\Debug\netcoreapp3.1\08.Shopping.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\08.Shopping\bin\Debug\netcoreapp3.1\08.Shopping.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\08.Shopping\obj\Debug\netcoreapp3.1\08.Shopping.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\08.Shopping\obj\Debug\netcoreapp3.1\08.Shopping.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatements-Exercise\08.Shopping\obj\Debug\netcoreapp3.1\08.Shopping.genruntimeconfig.cache

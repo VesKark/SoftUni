@@ -1,0 +1,14 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Lab\03.Numbers1ToNwithStep3\bin\Debug\netcoreapp3.1\03.Numbers1ToNwithStep3.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Lab\03.Numbers1ToNwithStep3\bin\Debug\netcoreapp3.1\03.Numbers1ToNwithStep3.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Lab\03.Numbers1ToNwithStep3\bin\Debug\netcoreapp3.1\03.Numbers1ToNwithStep3.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Lab\03.Numbers1ToNwithStep3\bin\Debug\netcoreapp3.1\03.Numbers1ToNwithStep3.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Lab\03.Numbers1ToNwithStep3\bin\Debug\netcoreapp3.1\03.Numbers1ToNwithStep3.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Lab\03.Numbers1ToNwithStep3\bin\Debug\netcoreapp3.1\03.Numbers1ToNwithStep3.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Lab\03.Numbers1ToNwithStep3\obj\Debug\netcoreapp3.1\03.Numbers1ToNwithStep3.csproj.AssemblyReference.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Lab\03.Numbers1ToNwithStep3\obj\Debug\netcoreapp3.1\03.Numbers1ToNwithStep3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Lab\03.Numbers1ToNwithStep3\obj\Debug\netcoreapp3.1\03.Numbers1ToNwithStep3.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Lab\03.Numbers1ToNwithStep3\obj\Debug\netcoreapp3.1\03.Numbers1ToNwithStep3.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Lab\03.Numbers1ToNwithStep3\obj\Debug\netcoreapp3.1\03.Numbers1ToNwithStep3.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Lab\03.Numbers1ToNwithStep3\obj\Debug\netcoreapp3.1\03.Numbers1ToNwithStep3.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Lab\03.Numbers1ToNwithStep3\obj\Debug\netcoreapp3.1\03.Numbers1ToNwithStep3.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ForLoop-Lab\03.Numbers1ToNwithStep3\obj\Debug\netcoreapp3.1\03.Numbers1ToNwithStep3.genruntimeconfig.cache

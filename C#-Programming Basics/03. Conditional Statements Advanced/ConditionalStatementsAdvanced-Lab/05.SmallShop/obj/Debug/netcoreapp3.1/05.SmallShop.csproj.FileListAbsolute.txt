@@ -1,0 +1,13 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\05.SmallShop\bin\Debug\netcoreapp3.1\05.SmallShop.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\05.SmallShop\bin\Debug\netcoreapp3.1\05.SmallShop.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\05.SmallShop\bin\Debug\netcoreapp3.1\05.SmallShop.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\05.SmallShop\bin\Debug\netcoreapp3.1\05.SmallShop.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\05.SmallShop\bin\Debug\netcoreapp3.1\05.SmallShop.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\05.SmallShop\bin\Debug\netcoreapp3.1\05.SmallShop.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\netcoreapp3.1\05.SmallShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\netcoreapp3.1\05.SmallShop.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\netcoreapp3.1\05.SmallShop.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\netcoreapp3.1\05.SmallShop.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\netcoreapp3.1\05.SmallShop.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\netcoreapp3.1\05.SmallShop.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\ConditionalStatementsAdvanced-Lab\05.SmallShop\obj\Debug\netcoreapp3.1\05.SmallShop.genruntimeconfig.cache

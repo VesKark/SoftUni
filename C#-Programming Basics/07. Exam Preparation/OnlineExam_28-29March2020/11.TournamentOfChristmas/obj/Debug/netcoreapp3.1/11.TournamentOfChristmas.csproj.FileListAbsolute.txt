@@ -1,0 +1,13 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\11.TournamentOfChristmas\bin\Debug\netcoreapp3.1\11.TournamentOfChristmas.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\11.TournamentOfChristmas\bin\Debug\netcoreapp3.1\11.TournamentOfChristmas.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\11.TournamentOfChristmas\bin\Debug\netcoreapp3.1\11.TournamentOfChristmas.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\11.TournamentOfChristmas\bin\Debug\netcoreapp3.1\11.TournamentOfChristmas.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\11.TournamentOfChristmas\bin\Debug\netcoreapp3.1\11.TournamentOfChristmas.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\11.TournamentOfChristmas\bin\Debug\netcoreapp3.1\11.TournamentOfChristmas.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\11.TournamentOfChristmas\obj\Debug\netcoreapp3.1\11.TournamentOfChristmas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\11.TournamentOfChristmas\obj\Debug\netcoreapp3.1\11.TournamentOfChristmas.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\11.TournamentOfChristmas\obj\Debug\netcoreapp3.1\11.TournamentOfChristmas.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\11.TournamentOfChristmas\obj\Debug\netcoreapp3.1\11.TournamentOfChristmas.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\11.TournamentOfChristmas\obj\Debug\netcoreapp3.1\11.TournamentOfChristmas.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\11.TournamentOfChristmas\obj\Debug\netcoreapp3.1\11.TournamentOfChristmas.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_28-29March2020\11.TournamentOfChristmas\obj\Debug\netcoreapp3.1\11.TournamentOfChristmas.genruntimeconfig.cache

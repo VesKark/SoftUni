@@ -1,0 +1,13 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\WhileLoop-Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\WhileLoop-Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\WhileLoop-Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\WhileLoop-Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\WhileLoop-Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\WhileLoop-Lab\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\WhileLoop-Lab\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.genruntimeconfig.cache

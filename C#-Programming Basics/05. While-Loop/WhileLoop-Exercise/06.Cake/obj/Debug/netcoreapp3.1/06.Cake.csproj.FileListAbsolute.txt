@@ -1,0 +1,13 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\WhileLoop-Exercise\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\WhileLoop-Exercise\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\WhileLoop-Exercise\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\WhileLoop-Exercise\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\WhileLoop-Exercise\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\WhileLoop-Exercise\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\WhileLoop-Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\WhileLoop-Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\WhileLoop-Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\WhileLoop-Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\WhileLoop-Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\WhileLoop-Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\WhileLoop-Exercise\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.genruntimeconfig.cache

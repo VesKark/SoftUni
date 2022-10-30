@@ -1,0 +1,14 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-Lab\02.MultiplicationTable\bin\Debug\netcoreapp3.1\02.MultiplicationTable.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-Lab\02.MultiplicationTable\bin\Debug\netcoreapp3.1\02.MultiplicationTable.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-Lab\02.MultiplicationTable\bin\Debug\netcoreapp3.1\02.MultiplicationTable.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-Lab\02.MultiplicationTable\bin\Debug\netcoreapp3.1\02.MultiplicationTable.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-Lab\02.MultiplicationTable\bin\Debug\netcoreapp3.1\02.MultiplicationTable.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-Lab\02.MultiplicationTable\bin\Debug\netcoreapp3.1\02.MultiplicationTable.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-Lab\02.MultiplicationTable\obj\Debug\netcoreapp3.1\02.MultiplicationTable.csproj.AssemblyReference.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-Lab\02.MultiplicationTable\obj\Debug\netcoreapp3.1\02.MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-Lab\02.MultiplicationTable\obj\Debug\netcoreapp3.1\02.MultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-Lab\02.MultiplicationTable\obj\Debug\netcoreapp3.1\02.MultiplicationTable.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-Lab\02.MultiplicationTable\obj\Debug\netcoreapp3.1\02.MultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-Lab\02.MultiplicationTable\obj\Debug\netcoreapp3.1\02.MultiplicationTable.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-Lab\02.MultiplicationTable\obj\Debug\netcoreapp3.1\02.MultiplicationTable.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\NestedLoops-Lab\02.MultiplicationTable\obj\Debug\netcoreapp3.1\02.MultiplicationTable.genruntimeconfig.cache

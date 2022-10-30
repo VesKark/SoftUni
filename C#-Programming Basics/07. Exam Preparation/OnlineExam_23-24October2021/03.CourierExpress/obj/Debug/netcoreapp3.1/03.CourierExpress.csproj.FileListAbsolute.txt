@@ -1,0 +1,14 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_23-24October2021\03.CourierExpress\bin\Debug\netcoreapp3.1\03.CourierExpress.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_23-24October2021\03.CourierExpress\bin\Debug\netcoreapp3.1\03.CourierExpress.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_23-24October2021\03.CourierExpress\bin\Debug\netcoreapp3.1\03.CourierExpress.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_23-24October2021\03.CourierExpress\bin\Debug\netcoreapp3.1\03.CourierExpress.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_23-24October2021\03.CourierExpress\bin\Debug\netcoreapp3.1\03.CourierExpress.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_23-24October2021\03.CourierExpress\bin\Debug\netcoreapp3.1\03.CourierExpress.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_23-24October2021\03.CourierExpress\obj\Debug\netcoreapp3.1\03.CourierExpress.csproj.AssemblyReference.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_23-24October2021\03.CourierExpress\obj\Debug\netcoreapp3.1\03.CourierExpress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_23-24October2021\03.CourierExpress\obj\Debug\netcoreapp3.1\03.CourierExpress.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_23-24October2021\03.CourierExpress\obj\Debug\netcoreapp3.1\03.CourierExpress.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_23-24October2021\03.CourierExpress\obj\Debug\netcoreapp3.1\03.CourierExpress.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_23-24October2021\03.CourierExpress\obj\Debug\netcoreapp3.1\03.CourierExpress.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_23-24October2021\03.CourierExpress\obj\Debug\netcoreapp3.1\03.CourierExpress.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\OnlineExam_23-24October2021\03.CourierExpress\obj\Debug\netcoreapp3.1\03.CourierExpress.genruntimeconfig.cache
