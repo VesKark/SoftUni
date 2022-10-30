@@ -1,0 +1,13 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\06.ConcatenateData\bin\Debug\netcoreapp3.1\06.ConcatenateData.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\06.ConcatenateData\obj\Debug\netcoreapp3.1\06.ConcatenateData.genruntimeconfig.cache

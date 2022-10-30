@@ -1,0 +1,14 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\02.Nums1To10\bin\Debug\netcoreapp3.1\02.Nums1To10.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\02.Nums1To10\bin\Debug\netcoreapp3.1\02.Nums1To10.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\02.Nums1To10\bin\Debug\netcoreapp3.1\02.Nums1To10.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\02.Nums1To10\bin\Debug\netcoreapp3.1\02.Nums1To10.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\02.Nums1To10\bin\Debug\netcoreapp3.1\02.Nums1To10.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\02.Nums1To10\bin\Debug\netcoreapp3.1\02.Nums1To10.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\02.Nums1To10\obj\Debug\netcoreapp3.1\02.Nums1To10.csproj.AssemblyReference.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\02.Nums1To10\obj\Debug\netcoreapp3.1\02.Nums1To10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\02.Nums1To10\obj\Debug\netcoreapp3.1\02.Nums1To10.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\02.Nums1To10\obj\Debug\netcoreapp3.1\02.Nums1To10.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\02.Nums1To10\obj\Debug\netcoreapp3.1\02.Nums1To10.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\02.Nums1To10\obj\Debug\netcoreapp3.1\02.Nums1To10.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\02.Nums1To10\obj\Debug\netcoreapp3.1\02.Nums1To10.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\02.Nums1To10\obj\Debug\netcoreapp3.1\02.Nums1To10.genruntimeconfig.cache

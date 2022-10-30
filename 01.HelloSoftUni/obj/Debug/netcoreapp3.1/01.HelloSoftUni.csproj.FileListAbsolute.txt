@@ -1,0 +1,14 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\01.HelloSoftUni\bin\Debug\netcoreapp3.1\01.HelloSoftUni.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\01.HelloSoftUni\bin\Debug\netcoreapp3.1\01.HelloSoftUni.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\01.HelloSoftUni\bin\Debug\netcoreapp3.1\01.HelloSoftUni.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\01.HelloSoftUni\bin\Debug\netcoreapp3.1\01.HelloSoftUni.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\01.HelloSoftUni\bin\Debug\netcoreapp3.1\01.HelloSoftUni.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\01.HelloSoftUni\bin\Debug\netcoreapp3.1\01.HelloSoftUni.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\netcoreapp3.1\01.HelloSoftUni.csproj.AssemblyReference.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\netcoreapp3.1\01.HelloSoftUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\netcoreapp3.1\01.HelloSoftUni.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\netcoreapp3.1\01.HelloSoftUni.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\netcoreapp3.1\01.HelloSoftUni.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\netcoreapp3.1\01.HelloSoftUni.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\netcoreapp3.1\01.HelloSoftUni.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\01.HelloSoftUni\obj\Debug\netcoreapp3.1\01.HelloSoftUni.genruntimeconfig.cache

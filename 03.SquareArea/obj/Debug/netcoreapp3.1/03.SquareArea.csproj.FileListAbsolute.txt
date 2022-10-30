@@ -1,0 +1,14 @@
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\03.SquareArea\bin\Debug\netcoreapp3.1\03.SquareArea.exe
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\03.SquareArea\bin\Debug\netcoreapp3.1\03.SquareArea.deps.json
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\03.SquareArea\bin\Debug\netcoreapp3.1\03.SquareArea.runtimeconfig.json
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\03.SquareArea\bin\Debug\netcoreapp3.1\03.SquareArea.runtimeconfig.dev.json
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\03.SquareArea\bin\Debug\netcoreapp3.1\03.SquareArea.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\03.SquareArea\bin\Debug\netcoreapp3.1\03.SquareArea.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\03.SquareArea\obj\Debug\netcoreapp3.1\03.SquareArea.csproj.AssemblyReference.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\03.SquareArea\obj\Debug\netcoreapp3.1\03.SquareArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\03.SquareArea\obj\Debug\netcoreapp3.1\03.SquareArea.AssemblyInfoInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\03.SquareArea\obj\Debug\netcoreapp3.1\03.SquareArea.AssemblyInfo.cs
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\03.SquareArea\obj\Debug\netcoreapp3.1\03.SquareArea.csproj.CoreCompileInputs.cache
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\03.SquareArea\obj\Debug\netcoreapp3.1\03.SquareArea.dll
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\03.SquareArea\obj\Debug\netcoreapp3.1\03.SquareArea.pdb
+C:\Users\vesel\source\repos\C#-Programming Basics\FirstStepsInCoding-Lab\03.SquareArea\obj\Debug\netcoreapp3.1\03.SquareArea.genruntimeconfig.cache
