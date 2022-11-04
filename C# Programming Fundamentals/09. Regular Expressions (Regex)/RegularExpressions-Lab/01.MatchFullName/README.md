@@ -4,7 +4,7 @@ Write a C# Program to **match full names** from a list of names and **print** th
   
 ## Writing the Regular Expression  
 
-First, create a regular expression to match a valid full name, according to the condition.  
+First, create a regular expression to match a valid full name, according to the conditions.  
 A valid full name has the following characteristics:
 
  - It consists of **two words**.
