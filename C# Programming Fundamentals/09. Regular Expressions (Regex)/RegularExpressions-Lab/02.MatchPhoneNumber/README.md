@@ -30,4 +30,4 @@ You can use the following RegEx properties to **help** with the matching:
 
 ## Testing in the Judge System  
     
-Test your solution here: [Judge System Link](hthttps://judge.softuni.org/Contests/Practice/Index/1667#1)
+Test your solution here: [Judge System Link](https://judge.softuni.org/Contests/Practice/Index/1667#1)
