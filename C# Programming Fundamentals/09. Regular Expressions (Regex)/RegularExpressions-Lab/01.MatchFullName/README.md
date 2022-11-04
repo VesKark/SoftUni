@@ -26,8 +26,8 @@ To help you out, we've outlined several steps:
     
 | **Input** | **Output** |  
 | :--- | :--- | 
-|  ```Bethany Taylor```, Oliver miller, sophia Johnson, SARah Wilson, ```John Smith```, Sam	        Smith | Bethany Taylor John Smith |
-|  ```Elvis Presley```, a a C C-```Muhammad Ali```, EE PeterpeterJR-a a xi ban D D bb b b-B B-c c EE-```Michael Jackson```, DD peter smith B B PETER BROWN IVAN DAVIES- | Elvis Presley Muhammad Ali Michael Jackson |
+| ```Bethany Taylor```, Oliver miller, sophia Johnson, SARah Wilson, ```John Smith```, Sam	        Smith | Bethany Taylor John Smith |
+| ```Elvis Presley```, a a C C-```Muhammad Ali```, EE PeterpeterJR-a a xi ban D D bb b b-B B-c c EE-```Michael Jackson```, DD peter smith B B PETER BROWN IVAN DAVIES- | Elvis Presley Muhammad Ali Michael Jackson |
 
 ## Testing in the Judge System  
     
