@@ -1,6 +1,6 @@
 # Converter – USD to BGN  
   
-Write a program for **conversion of US dollars** (USD) **into Bulgarian levs** (BGN).
+Write a program for **conversion of US dollars** (USD) **into Bulgarian levs** (BGN).  
 Use a fixed rate between a **dollar** (USD) and **levs** (BGN): **1 USD = 1.79549 BGN**.  
     
 ## Sample Input and Output  
