@@ -28,8 +28,8 @@ When you receive "**end of shift**" print the total amount of money for the day 
     
 | **Input** | **Output** |  
 | :--- | :--- | 
-| %George%<Croissant>\|2\|10.3$<br> %Peter%<Gum>\|1\|1.3$<br> %Maria%<Cola>\|1\|2.4$<br> end of shift | George: Croissant - 20.60<br> Peter: Gum - 1.30<br> Maria: Cola - 2.40<br> Total income: 24.30 |
-| %InvalidName%<Croissant>\|2\|10.3$<br> %Peter%<Gum>1.3$<br> %Maria%<Cola>\|1\|2.4<br> %Valid%<Valid>valid\|10\|valid20$<br> end of shift | Valid: Valid - 200.00<br> Total income: 200.00 |
+| %George%\<Croissant\>\|2\|10.3$<br> %Peter%\<Gum\>\|1\|1.3$<br> %Maria%\<Cola\>\|1\|2.4$<br> end of shift | George: Croissant - 20.60<br> Peter: Gum - 1.30<br> Maria: Cola - 2.40<br> Total income: 24.30 |
+| %InvalidName%\<Croissant\>\|2\|10.3$<br> %Peter%\<Gum\>1.3$<br> %Maria%\<Cola\>\|1\|2.4<br> %Valid%\<Valid\>valid\|10\|valid20$<br> end of shift | Valid: Valid - 200.00<br> Total income: 200.00 |
 
 ## Testing in the Judge System  
     
