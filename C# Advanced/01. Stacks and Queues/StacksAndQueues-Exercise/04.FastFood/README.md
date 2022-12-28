@@ -1,4 +1,4 @@
-# Fastt Food
+# Fast Food
 
 You have a fast-food restaurant and most of the food that you're offering is previously prepared.
 You need to know if you will have enough food to serve lunch to all of your customers. Write a program that checks the orders' quantity.
