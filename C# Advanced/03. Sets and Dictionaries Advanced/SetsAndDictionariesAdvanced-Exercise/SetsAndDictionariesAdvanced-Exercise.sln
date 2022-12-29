@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.UniqueUsernames", "01.UniqueUsernames\01.UniqueUsernames.csproj", "{0B1E1BE6-AC4D-4B57-98FE-1DFC631C67FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SetsOfElements", "02.SetsOfElements\02.SetsOfElements.csproj", "{628BF1DD-6FAA-4015-95A6-FB9EECE1C86C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.PeriodicTable", "03.PeriodicTable\03.PeriodicTable.csproj", "{91956C06-1004-4447-9B55-B41E5074993C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.EvenTimes", "04.EvenTimes\04.EvenTimes.csproj", "{2EEFD8FF-108C-4EEA-95D3-5DEC9220DE41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.CountSymbols", "05.CountSymbols\05.CountSymbols.csproj", "{4D12FB5D-C440-417B-8FB5-D91B39355D3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Wardrobe", "06.Wardrobe\06.Wardrobe.csproj", "{3F2EDD32-26E6-4BE8-A251-702D518DBE52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.TheV-Logger", "07.TheV-Logger\07.TheV-Logger.csproj", "{E888A171-B486-482C-975C-46C501CE0F9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B1E1BE6-AC4D-4B57-98FE-1DFC631C67FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B1E1BE6-AC4D-4B57-98FE-1DFC631C67FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B1E1BE6-AC4D-4B57-98FE-1DFC631C67FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B1E1BE6-AC4D-4B57-98FE-1DFC631C67FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{628BF1DD-6FAA-4015-95A6-FB9EECE1C86C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{628BF1DD-6FAA-4015-95A6-FB9EECE1C86C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{628BF1DD-6FAA-4015-95A6-FB9EECE1C86C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{628BF1DD-6FAA-4015-95A6-FB9EECE1C86C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91956C06-1004-4447-9B55-B41E5074993C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91956C06-1004-4447-9B55-B41E5074993C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91956C06-1004-4447-9B55-B41E5074993C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91956C06-1004-4447-9B55-B41E5074993C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EEFD8FF-108C-4EEA-95D3-5DEC9220DE41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EEFD8FF-108C-4EEA-95D3-5DEC9220DE41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EEFD8FF-108C-4EEA-95D3-5DEC9220DE41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EEFD8FF-108C-4EEA-95D3-5DEC9220DE41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D12FB5D-C440-417B-8FB5-D91B39355D3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D12FB5D-C440-417B-8FB5-D91B39355D3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D12FB5D-C440-417B-8FB5-D91B39355D3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D12FB5D-C440-417B-8FB5-D91B39355D3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F2EDD32-26E6-4BE8-A251-702D518DBE52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F2EDD32-26E6-4BE8-A251-702D518DBE52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F2EDD32-26E6-4BE8-A251-702D518DBE52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F2EDD32-26E6-4BE8-A251-702D518DBE52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E888A171-B486-482C-975C-46C501CE0F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E888A171-B486-482C-975C-46C501CE0F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E888A171-B486-482C-975C-46C501CE0F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E888A171-B486-482C-975C-46C501CE0F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2A36F67-3701-4F6E-8BFD-99FB3AD01F31}
+	EndGlobalSection
+EndGlobal
