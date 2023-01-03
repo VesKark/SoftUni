@@ -1,9 +1,11 @@
-﻿namespace WordCount
+﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Text.RegularExpressions;
+
+namespace WordCount
 {
-    using System;
-    using System.Collections.Generic;
-    using System.IO;
-    using System.Linq;
     public class WordCount
     {
         static void Main()
@@ -17,6 +19,43 @@
 
         public static void CalculateWordCounts(string wordsFilePath, string textFilePath, string outputFilePath)
         {
+            using (StreamReader words = new StreamReader(wordsFilePath))
+            {
+                string[] wordsArray = words.ReadLine().ToLower().Split();
+
+                StreamReader text = new StreamReader(textFilePath);
+                string readText = text.ReadToEnd().ToLower();
+
+                string pattern = @"[a-zA-Z0-9\']+";
+                MatchCollection allWords = Regex.Matches(readText, pattern);
+
+                Dictionary<string, int> wordCounts = new Dictionary<string, int>();
+
+                foreach (string searchedWord in wordsArray)
+                {
+                    int count = 0;
+
+                    foreach (Match word in allWords)
+                    {
+                        string currWord = word.Value;
+
+                        if (searchedWord == currWord)
+                        {
+                            count++;
+                        }
+                    }
+
+                    wordCounts[searchedWord] = count;
+                }
+
+                using (StreamWriter countedWords = new StreamWriter(outputFilePath))
+                {
+                    foreach (var item in wordCounts.OrderByDescending(x => x.Value))
+                    {
+                        countedWords.WriteLine($"{item.Key} - {item.Value}");
+                    }
+                }
+            }
         }
     }
 }
