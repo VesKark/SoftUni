@@ -1,9 +1,11 @@
-﻿namespace SplitMergeBinaryFile
-{
-    using System;
-    using System.IO;
-    using System.Linq;
+﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
 
+namespace SplitMergeBinaryFile
+{
     public class SplitMergeBinaryFile
     {
         static void Main()
@@ -19,10 +21,47 @@
 
         public static void SplitBinaryFile(string sourceFilePath, string partOneFilePath, string partTwoFilePath)
         {
+            using (FileStream source = new FileStream(sourceFilePath, FileMode.Open))
+            {
+                using (FileStream partOne = new FileStream(partOneFilePath, FileMode.Create))
+                {
+                    int odd = source.Length % 2 == 1 ? 1 : 0;
+                    byte[] buffer = new byte[source.Length / 2 + odd];
+
+                    source.Read(buffer);
+                    partOne.Write(buffer);
+                }
+
+                using (FileStream partTwo = new FileStream(partTwoFilePath, FileMode.Create))
+                {
+                    byte[] buffer = new byte[source.Length / 2];
+
+                    source.Read(buffer);
+                    partTwo.Write(buffer);
+                }
+            }
         }
 
         public static void MergeBinaryFiles(string partOneFilePath, string partTwoFilePath, string joinedFilePath)
         {
+            using (FileStream merge = new FileStream(joinedFilePath, FileMode.Create))
+            {
+                using (FileStream partOne = new FileStream(partOneFilePath, FileMode.Open))
+                {
+                    byte[] buffer = new byte[partOne.Length];
+
+                    partOne.Read(buffer);
+                    merge.Write(buffer);
+                }
+
+                using (FileStream partTwo = new FileStream(partTwoFilePath, FileMode.Open))
+                {
+                    byte[] buffer = new byte[partTwo.Length];
+
+                    partTwo.Read(buffer);
+                    merge.Write(buffer);
+                }
+            }
         }
     }
 }
