@@ -6,7 +6,6 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-
         // create list with invitations and filter data structure:
         List<string> invitedPeople = Console.ReadLine().Split().ToList();
         HashSet<string> filters = new HashSet<string>();
@@ -42,7 +41,7 @@ internal class Program
             invitedPeople.RemoveAll(filter);
         }
 
-        // print lfiltered list:
+        // print filtered list:
         Console.WriteLine(string.Join(" ", invitedPeople));
     }
 
