@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.SpeedRacing", "06.SpeedR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.RawData", "07.RawData\07.RawData.csproj", "{10B7DBD4-1594-4878-99EF-D7EA2BD14C26}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.CarSalesman", "08.CarSalesman\08.CarSalesman.csproj", "{C9C30BD7-E68F-4CB7-AFAD-71F495FA6ED3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{10B7DBD4-1594-4878-99EF-D7EA2BD14C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10B7DBD4-1594-4878-99EF-D7EA2BD14C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10B7DBD4-1594-4878-99EF-D7EA2BD14C26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9C30BD7-E68F-4CB7-AFAD-71F495FA6ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C30BD7-E68F-4CB7-AFAD-71F495FA6ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C30BD7-E68F-4CB7-AFAD-71F495FA6ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C30BD7-E68F-4CB7-AFAD-71F495FA6ED3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
