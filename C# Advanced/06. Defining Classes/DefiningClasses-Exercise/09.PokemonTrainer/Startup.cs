@@ -5,7 +5,7 @@ using System.Security.Cryptography.X509Certificates;
 
 namespace _09.PokemonTrainer
 {
-    public class Startup
+    public class StartUp
     {
         static void Main(string[] args)
         {
