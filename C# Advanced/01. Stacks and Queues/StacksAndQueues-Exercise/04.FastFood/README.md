@@ -31,7 +31,7 @@ If not – print: "**Orders left: {order1} {order2} .... {orderN}**"
     
 | **Input** | **Output** |  
 | :--- | :--- | 
-| 348<br> 20 54 30 16 7 9 | 54<br> rders complete |
+| 348<br> 20 54 30 16 7 9 | 54<br> Orders complete |
 | 499<br> 57 45 62 70 33 90 88 76 | 90<br> Orders left: 76 |
 
 ## Testing in the Judge System  
