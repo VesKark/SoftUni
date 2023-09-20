@@ -6,30 +6,25 @@ class Program
 {
     static void Main(string[] args)
     {
-        int[] input = Console.ReadLine().Split().Select(int.Parse).ToArray();
-        Stack<int> clothing = new Stack<int>(input);
-        int rackCapacity = int.Parse(Console.ReadLine());
-
-        int rackCount = 0;
-
-        while (clothing.Count > 0)
-        {
-            int sumPerRack = 0;
-
-            while (sumPerRack + clothing.Peek() <= rackCapacity)
-            {
-                sumPerRack += clothing.Peek();
-                clothing.Pop();
-
-                if (clothing.Count == 0)
-                {
-                    break;
-                }
-            }
-
-            rackCount++;
-        }
-
-        Console.WriteLine(rackCount);
+        Stack<int> clothes = new Stack<int>(Console.ReadLine().Split().Select(int.Parse));
+		int rackCapacity = int.Parse(Console.ReadLine());
+		
+		int countRacks = 1;
+		int currRack = 0;
+		
+		while(clothes.Count > 0)
+		{
+			if (currRack + clothes.Peek() <= rackCapacity)
+			{
+				currRack += clothes.Pop();
+			}
+			else
+			{
+				countRacks += 1;
+				currRack = 0;
+			}
+		}
+		
+		Console.WriteLine(countRacks);
     }
 }
