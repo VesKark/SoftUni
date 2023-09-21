@@ -6,69 +6,54 @@ class Program
 {
     static void Main(string[] args)
     { 
-        int pumpsCount = int.Parse(Console.ReadLine());
-        Queue<Pump> pumps = new Queue<Pump>();
-
-        // input pumps data:
-        for (int i = 0; i < pumpsCount; i++)
-        {
-            string pumpData = Console.ReadLine();
-            int amount = int.Parse(pumpData.Split()[0]);
-            int distance = int.Parse(pumpData.Split()[1]);
-
-            Pump currPump = new Pump(i, amount, distance);
-            pumps.Enqueue(currPump);
-        }
-
-        // find start point of truck tour:        
-        int startPoint = 0;
-
-        for (int i = 0; i < pumpsCount; i++)
-        {
-            startPoint = i;
-            int totalAmount = 0;
-            Queue<Pump> pumpTour = new Queue<Pump>(pumps);
-            bool tourSuccess = true;
-
-            for (int j = 0; j < pumpsCount; j++)
-            {
-                Pump thisPump = pumpTour.Dequeue();
-
-                totalAmount += thisPump.Amount;
-
-                if (thisPump.Distance <= totalAmount)
-                {
-                    totalAmount -= thisPump.Distance;
-                }
-                else
-                {
-                    tourSuccess = false;
-                    break;
-                }
-            }
-
-            if (tourSuccess)
-            {
-                break;
-            }
-
-            Pump currPump = pumps.Dequeue();
-            pumps.Enqueue(currPump);
-        }
-
-        Console.WriteLine(startPoint);
+        // input:
+		int stations = int.Parse(Console.ReadLine());
+		
+		Queue<int> literPerStation = new Queue<int>();
+		Queue<int> distanceToStation = new Queue<int>();
+		
+		for (int i = 0; i < stations; i++)
+		{
+			int[] parameter = Console.ReadLine().Split().Select(int.Parse).ToArray();
+			int liter = parameter[0];
+			int distance = parameter[1];
+			
+			literPerStation.Enqueue(liter);
+			distanceToStation.Enqueue(distance);
+		}
+		
+		// find smallest index of the petrol pump from which we can start the tour:		
+		int countStations = 0;
+		
+		for (int i = 0; i < stations; i++)
+		{
+			int sumLiter = 0;
+			int sumDinstance = 0;
+			int index = 0;
+			bool findStation = false;
+			
+			while (sumLiter >= sumDinstance)
+			{
+				sumLiter += literPerStation.Peek();
+				sumDinstance += distanceToStation.Peek();
+				countStations++;
+				index++;
+				
+				literPerStation.Enqueue(literPerStation.Dequeue());
+				distanceToStation.Enqueue(distanceToStation.Dequeue());
+				
+				if (index == stations)
+				{
+					findStation = true;
+					break;
+				}
+			}
+			
+			if (findStation)
+			{
+				Console.WriteLine(countStations - stations);
+				break;
+			}
+		}		
     }
-}
-
-class Pump
-{
-    public Pump (int name, int amount, int distance)
-    {
-        Name = name;
-        Amount = amount;
-        Distance = distance;
-    }
-    public int Name { get; set; }
-    public int Amount { get; set; }
-    public int Distance { get; set; }
 }
